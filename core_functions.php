@@ -3,8 +3,8 @@
 function CallAPI($method, $url, $data = false)
 {
     $curl = curl_init();
-	$app_id = '';
-	$app_key = '';
+	$app_id = '365cfded';
+	$app_key = '2f9319aa36b54749fe69c363ad149539';
     switch ($method)
     {
         case "POST":
