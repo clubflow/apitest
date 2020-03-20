@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* Core plugin styles. */
+
+.quarterTile{
+	padding:1%; 
+	border:1px solid #ddd; 
+	margin:1%; 
+	float:left; 
+	width:23%; 
+	min-width:200px;
+	box-sizing: border-box;
+}
